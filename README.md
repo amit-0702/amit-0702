@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amit-0702
 - 👀 I’m interested in Software Development, web Development.
-- 🌱 I’m currently learning data structures, javascript and fundamentals of computer science.
+- 🌱 I’m currently Pursuing my bachelors degree majored in computer science.
 - 📫 amit.kumar.70202@gmail.com
 
 <!---
