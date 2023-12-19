@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amit-0702
-- 👀 I’m interested in Software Engineering, web Development.
-- 🌱 I’m currently Pursuing my bachelors degree majored in computer science.
+- 👀 I’m interested in Software Engineering.
+- 🌱 I’m Currently a Software Engineer.
 - 📫 amit.kumar.70202@gmail.com
 
 <!---
